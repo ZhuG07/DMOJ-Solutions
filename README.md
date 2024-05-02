@@ -1,2 +1,2 @@
-# DMOJ-Solutions-
-some of dmoj solutions stuff 
+# DMOJ-Solutions
+Repository for solved DMOJ problems 
